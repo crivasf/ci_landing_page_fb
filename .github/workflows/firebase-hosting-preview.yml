@@ -2,7 +2,7 @@ name: Deploy to Firebase Hosting Preview
 'on':
   push:
     branches:
-      - main
+      - develop
 jobs:
   build_and_preview:
     runs-on: ubuntu-latest
