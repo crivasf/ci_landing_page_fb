@@ -1,4 +1,11 @@
 # ci_landing_page_firebase
+    Preview
+        https://ci-landing-page-fb--preview-live-yd8vd6dg.web.app/
+
+    Live
+        https://ci-landing-page-fb.web.app/
+        https://ci-landing-page-fb.firebaseapp.com/
+
 Tooplate.com HTML Templates
 
 You can edit and use this template for any purpose (personal or commercial) of your website. You can modify text and images to suit your own website or client websites.
